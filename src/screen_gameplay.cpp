@@ -12,3 +12,7 @@ void DrawGameplayScreen(void)
 {
     // TODO: Draw GAMEPLAY screen here!
 }
+void UnloadGamePlayScreen(void)
+{
+    // TODO: unload GAMEPLAY screen here!
+}
