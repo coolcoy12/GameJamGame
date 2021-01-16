@@ -1,4 +1,6 @@
 #include "raylib.h"
+#include "ui.hpp"
+#include "screens.hpp"
 
 int main(void)
 {
